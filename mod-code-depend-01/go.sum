@@ -1,2 +1,4 @@
-github.com/matif607/puppy v0.0.0-20261106184437-c4331cd634f4 h1:40Q94gt7z5B5J/X88A603vTE7syZFcFMFKXUcJ0NVKk=
-github.com/matif607/puppy v0.0.0-20261106184437-c4331cd634f4/go.mod h1:11H6EuNikobr3AFUDDS9mpqVGjQDVtWIT+9gX0CwNGo=
+github.com/matif607/dog v0.0.0-20261112161105-cfa70e8a6534 h1:rfzrpOhKRDPYnF1bQlntMd/npoRu+Uo+4R6ROh3mFcg=
+github.com/matif607/dog v0.0.0-20261112161105-cfa70e8a6534/go.mod h1:25Rh4gJN0MLG1Zzt7NBYq5l43oyAvTlcNCSZDvZnmxo=
+github.com/matif607/puppy v0.0.0-20261112150448-ba552aa270f0 h1:Epr7ooCaS9lo4qTJmaVApFbWbBoJBnm2WVi1l4Vdo4w=
+github.com/matif607/puppy v0.0.0-20261112150448-ba552aa270f0/go.mod h1:U/UuTu/tUcrXYlCr10uIGIGyx3vaPnHC2gO9S9sD2UU=
